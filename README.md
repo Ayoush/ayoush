@@ -25,7 +25,7 @@
 
 <br />
 
-hi, i'm [Ayoush Chourasia](https://ayoush.github.io/), a full stack developer with experience in building a product from scratch. i easily got borded hence on weekends i explore new things and share the same with others by streaming. Currently i am working on one of my product which might solve one of the problem which i believe exists for a long time.i am also very opinionated about certain things that is happening around us and share the same via a podcast on spotify. 
+hi, i'm [Ayoush Chourasia](https://ayoush.github.io/), a full stack developer with experience in building a product from scratch. i easily get borded hence on weekends i explore new things and share the same with others by streaming. Currently i am working on one of my product which might solve one of the problem which i believe exists for a long time.i am also very opinionated about certain things that is happening around us and share the same via a podcast on spotify. 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
