@@ -51,6 +51,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -59,6 +62,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
+🏆  484 Karma Points           
+🌸  Completed 3 tasks today           
+✅  Completed 3 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 
