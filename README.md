@@ -11,7 +11,7 @@
 <a href="https://open.spotify.com/user/31bys2w63zcrkal27oi2zoh3t2jq?si=5e21b5a660d6498b">
   <img align="left" alt="Ayoush's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.twitch.tv/ayoushchourasia">
+<a href="https://www.twitch.tv/help_buddy">
   <img align="left" alt="Ayoush's Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
 <a href="https://www.instagram.com/mephistopheles_soul/">
