@@ -12,7 +12,7 @@
   <img align="left" alt="Ayoush's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 <a href="https://www.twitch.tv/help_buddy">
-  <img align="left" alt="Ayoush's Twitch" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitch/twitch-icon.svg" />
+  <img align="left" alt="Ayoush's Twitch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" />
 </a>
 <a href="https://www.instagram.com/mephistopheles_soul/">
   <img align="left" alt="Ayoush's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
