@@ -9,10 +9,10 @@
   <img align="left" alt="Ayoush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31bys2w63zcrkal27oi2zoh3t2jq?si=5e21b5a660d6498b">
-  <img align="left" alt="Ayoush's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Ayoush's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 <a href="https://www.twitch.tv/help_buddy">
-  <img align="left" alt="Ayoush's Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Ayoush's Twitch" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitch/twitch-icon.svg" />
 </a>
 <a href="https://www.instagram.com/mephistopheles_soul/">
   <img align="left" alt="Ayoush's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
@@ -25,9 +25,9 @@
 
 <br />
 
-hi, i'm [Ayoush Chourasia](https://ayoush.github.io/), a full stack developer with experience in building a product from scratch. i easily get borded hence on weekends i explore new things and share the same with others by streaming. Currently i am working on one of my product which might solve one of the problem which i believe exists for a long time.i am also very opinionated about certain things that is happening around us and share the same via a podcast on spotify. 
+hi, I'm [Ayoush Chourasia](https://ayoush.github.io/), a full stack developer with experience in building a product from scratch. I easily get bored hence on weekends I explore new things and share the same with others by streaming. Currently, I am working on one of my product that might solve one of the problems which I believe exists for a long time. I am also very opinionated about certain things that are happening around us and share the same via a podcast on Spotify.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
