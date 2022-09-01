@@ -77,3 +77,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayoush&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+📈 my leetcode stats
+
+<p align="center"> <img height="180em" src="https://leetcard.jacoblin.cool/Ayoush_Chourasia?font=Dancing_Script" />
