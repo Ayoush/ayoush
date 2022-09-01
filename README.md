@@ -80,4 +80,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my leetcode stats
 
-<p align="center"> <img height="180em" src="https://leetcard.jacoblin.cool/Ayoush_Chourasia?ext=activity&font=Dancing_Script" />
+<p align="center"> <img height="400em" src="https://leetcard.jacoblin.cool/Ayoush_Chourasia?ext=activity&font=Dancing_Script" />
