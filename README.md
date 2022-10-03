@@ -53,11 +53,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 2 mins    ████████████▓░░░░░░░░░░░░   50.90 %
-Elixir       4 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   45.16 %
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python       5 hrs 2 mins    ████████████████▓░░░░░░░░   67.23 %
+Elixir       2 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.78 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
