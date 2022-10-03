@@ -30,7 +30,8 @@ hi, I'm [Ayoush Chourasia](https://ayoush.github.io/), a full stack developer wi
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<a href="https://app.daily.dev/Meph0x"><img align="right" src="https://api.daily.dev/devcards/6573cbf920fb407f8cd624b68f0ef006.png?r=5ox" width="500"  alt="Ayoush Chourasia's Dev Card"/></a>
   
 - 💼 any freelance work? do reach, [email](mailto:ayoushchourasia@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
