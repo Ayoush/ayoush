@@ -54,11 +54,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python   14 hrs 4 mins   ██████████████████████▓░░   90.38 %
-CSV      1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-YAML     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Text     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Other    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python   12 hrs 17 mins  ██████████████████████░░░   88.24 %
+CSV      1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Other    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
