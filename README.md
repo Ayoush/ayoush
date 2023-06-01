@@ -54,11 +54,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Bash         12 mins         ██████████████▒░░░░░░░░░░   57.47 %
-JavaScript   6 mins          ███████▓░░░░░░░░░░░░░░░░░   31.31 %
-Other        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-CSV          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Charmci      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JavaScript   46 mins         █████████████████▓░░░░░░░   71.01 %
+Bash         15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
+Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
