@@ -26,11 +26,10 @@ I am also a staunch advocate of the open-source community and actively participa
   <img align="left" alt="Ayoush's Instagram" width="115px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<br>  
 
 
-- 💼 any freelance work? do reach, [email](mailto:ayoushchourasia@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+<br>- 💼 any freelance work? do reach, [email](mailto:ayoushchourasia@gmail.com) :)
+<br>- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 <p>
