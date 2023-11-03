@@ -1,18 +1,18 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey! Nice to see you.</h1>
 <a href="https://discord.gg/RjjEKMnJ">
-  <img align="left" alt="Ayoush's Discord" width="22px" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <img align="left" alt="Ayoush's Discord" width="115px" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://twitter.com/Meph0x">
-  <img align="left" alt="Ayoush Chourasia | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img align="left" alt="Ayoush Chourasia | Twitter" width="115px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ayoushchourasia/">
-  <img align="left" alt="Ayoush's LinkedIN" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Ayoush's LinkedIN" width="115px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/user/31bys2w63zcrkal27oi2zoh3t2jq?si=5e21b5a660d6498b">
-  <img align="left" alt="Ayoush's Spotify" width="22px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img align="left" alt="Ayoush's Spotify" width="115px" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 <a href="https://www.twitch.tv/help_buddy">
-  <img align="left" alt="Ayoush's Twitch" width="22px" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
+  <img align="left" alt="Ayoush's Twitch" width="115px" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
 </a>
 <a href="https://ayoushchourasia.medium.com/">
   <img align="left" alt="Ayoush's Instagram" width="115px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
