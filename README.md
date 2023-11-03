@@ -26,10 +26,7 @@ I am also a staunch advocate of the open-source community and actively participa
   <img align="left" alt="Ayoush's Instagram" width="115px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-
-
-<a href="https://app.daily.dev/Meph0x"><img align="right" src="https://github.com/Ayoush/ayoush/blob/master/devcard.svg" width="500"  alt="Ayoush Chourasia's Dev Card"/></a>
-  
+<br>  
 
 
 - 💼 any freelance work? do reach, [email](mailto:ayoushchourasia@gmail.com) :)
