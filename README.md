@@ -18,7 +18,7 @@
   <img align="left" alt="Ayoush's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
 <a href="https://ayoushchourasia.medium.com/">
-  <img align="left" alt="Ayoush's Instagram" width="115px" src="https://en.wikipedia.org/wiki/Medium_(website)#/media/File:Medium_(website)_logo.svg" />
+  <img align="left" alt="Ayoush's Instagram" width="115px" src="https://cdn.worldvectorlogo.com/logos/medium-2.svg" />
 </a>
 
 <br />
