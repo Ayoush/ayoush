@@ -2,10 +2,10 @@
 <a href="https://discord.gg/RjjEKMnJ">
   <img align="left" alt="Ayoush's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/ayoushhorcrux">
+<a href="https://twitter.com/Meph0x">
   <img align="left" alt="Ayoush Chourasia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ayoush-chourasia-767041b4/">
+<a href="https://www.linkedin.com/in/ayoushchourasia/">
   <img align="left" alt="Ayoush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31bys2w63zcrkal27oi2zoh3t2jq?si=5e21b5a660d6498b">
@@ -14,11 +14,8 @@
 <a href="https://www.twitch.tv/help_buddy">
   <img align="left" alt="Ayoush's Twitch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" />
 </a>
-<a href="https://www.instagram.com/mephistopheles_soul/">
-  <img align="left" alt="Ayoush's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
 <a href="https://ayoushchourasia.medium.com/">
-  <img align="left" alt="Ayoush's Instagram" width="115px" src="https://cdn.worldvectorlogo.com/logos/medium-2.svg" />
+  <img align="left" alt="Ayoush's Instagram" width="115px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 <br />
