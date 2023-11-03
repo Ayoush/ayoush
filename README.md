@@ -28,8 +28,6 @@ I am also a staunch advocate of the open-source community and actively participa
 
 <br>
 <br>
-`<br>`
-`<br>`
 
 **languages and tools:**  
 <p>
