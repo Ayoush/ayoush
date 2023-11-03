@@ -45,15 +45,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png">
-  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png">
-  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MySQL_Dolphin.jpg/233px-MySQL_Dolphin.jpg">
 </p>
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MySQL_Dolphin.jpg/233px-MySQL_Dolphin.jpg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
