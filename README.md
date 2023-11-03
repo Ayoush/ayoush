@@ -26,7 +26,10 @@ I am also a staunch advocate of the open-source community and actively participa
   <img align="left" alt="Ayoush's Instagram" width="115px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-
+<br>
+<br>
+`<br>`
+`<br>`
 
 **languages and tools:**  
 <p>
@@ -40,7 +43,7 @@ I am also a staunch advocate of the open-source community and actively participa
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 </p>
-
+  
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
