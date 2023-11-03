@@ -26,11 +26,6 @@ I am also a staunch advocate of the open-source community and actively participa
   <img align="left" alt="Ayoush's Instagram" width="115px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-                                           
-
-<p>- 💼 any freelance work? do reach, [email](mailto:ayoushchourasia@gmail.com) :)<p>
-<p>- 💬 ask me about anything, i am happy to help;<p>
-
 **languages and tools:**  
 <p>
   <img alt="Vim" src="https://img.shields.io/badge/Spacevim-lightgreen?style=flat-square&logo=vim&logoColor=darkgreen" />
