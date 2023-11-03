@@ -18,10 +18,8 @@
   <img align="left" alt="Ayoush's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
 <a href="https://ayoushchourasia.medium.com/">
-  <img align="left" alt="Ayoush's Instagram" width="115px" src="https://github.com/Ayoush/ayoush/blob/master/medium-seeklogo.com.svg" />
+  <img align="left" alt="Ayoush's Instagram" width="115px" src="https://en.wikipedia.org/wiki/Medium_(website)#/media/File:Medium_(website)_logo.svg" />
 </a>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ayoush&left_color=red&right_color=green) 
 
 <br />
 
