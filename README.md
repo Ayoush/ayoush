@@ -1,4 +1,10 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey! Nice to see you.</h1>
+
+<p><b>Welcome to my page! </br> hi, I'm Ayoush Chourasia, a full stack developer with experience in building a product from scratch. I easily get bored hence on weekends I explore new things and share the same with others by streaming. Currently, I am working on one of my product that might solve one of the problems which I believe exists for a long time. I am also very opinionated about certain things that are happening around us and share the same via a podcast on Spotify.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</b>
+</p>
+
 <a href="https://discord.gg/RjjEKMnJ">
   <img align="left" alt="Ayoush's Discord" width="115px" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
@@ -17,12 +23,6 @@
 <a href="https://ayoushchourasia.medium.com/">
   <img align="left" alt="Ayoush's Instagram" width="115px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
-<br />
-
-hi, I'm [Ayoush Chourasia](https://ayoush.github.io/), a full stack developer with experience in building a product from scratch. I easily get bored hence on weekends I explore new things and share the same with others by streaming. Currently, I am working on one of my product that might solve one of the problems which I believe exists for a long time. I am also very opinionated about certain things that are happening around us and share the same via a podcast on Spotify.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 
