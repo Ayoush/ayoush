@@ -1,8 +1,10 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey! Nice to see you.</h1>
 
-<p><b>Welcome to my page! </br> hi, I'm Ayoush Chourasia, a full stack developer with experience in building a product from scratch. I easily get bored hence on weekends I explore new things and share the same with others by streaming. Currently, I am working on one of my product that might solve one of the problems which I believe exists for a long time. I am also very opinionated about certain things that are happening around us and share the same via a podcast on Spotify.
+<p><b>Hello, I am Ayoush Chourasia, a seasoned full-stack developer with a strong track record of conceiving and developing products from the ground up. My passion for innovation drives me to explore new frontiers even during my weekends, where I diligently delve into uncharted territories and share my discoveries through live streaming. Presently, I am dedicated to the development of a product poised to address a long-standing problem that has persisted over time.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</b>
+In addition to my technical expertise, I maintain a strong voice on matters of significance in the world around us. I express my viewpoints and insights through a dedicated podcast on Spotify.
+
+I am also a staunch advocate of the open-source community and actively participate as a maintainer. My journey in the open-source realm has been an enlightening one, and I deeply appreciate the collaborative spirit and the exchange of knowledge that characterize this community.</b>
 </p>
 
 <a href="https://discord.gg/RjjEKMnJ">
