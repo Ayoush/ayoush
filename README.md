@@ -30,6 +30,8 @@ I am also a staunch advocate of the open-source community and actively participa
 
 <a href="https://app.daily.dev/Meph0x"><img align="right" src="https://github.com/Ayoush/ayoush/blob/master/devcard.svg" width="500"  alt="Ayoush Chourasia's Dev Card"/></a>
   
+
+
 - 💼 any freelance work? do reach, [email](mailto:ayoushchourasia@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
