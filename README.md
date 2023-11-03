@@ -35,9 +35,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
+<p>
+  <img alt="Vim" src="https://img.shields.io/badge/Spacevim-lightgreen?style=flat-square&logo=vim&logoColor=darkgreen" />
+  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-632E7E?style=flat-square&logo=elixir&logoColor=AF2A7F" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png">
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png">
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MySQL_Dolphin.jpg/233px-MySQL_Dolphin.jpg">
+</p>
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/240px-GraphQL_Logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MySQL_Dolphin.jpg/233px-MySQL_Dolphin.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png"></code>
