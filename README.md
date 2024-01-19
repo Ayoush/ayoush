@@ -47,11 +47,11 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   19 mins         ████████▓░░░░░░░░░░░░░░░░   34.22 %
-Python       13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 %
-Elixir       12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-YAML         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-XML          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Elixir       1 hr 2 mins     ██████████████▒░░░░░░░░░░   57.70 %
+TypeScript   19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+Python       14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+YAML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
