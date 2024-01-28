@@ -47,10 +47,8 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir   5 hrs 32 mins   ████████████████████████▒   97.37 %
-Other    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Elixir   2 hrs 1 min     ███████████████████████▓░   94.86 %
+Other    6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:waka-->
