@@ -47,11 +47,11 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir     1 hr 54 mins    ████████████████████▒░░░░   81.80 %
-Python     17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Elixir       2 hrs 44 mins   ███████████████████▓░░░░░   78.31 %
+Python       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+JavaScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
