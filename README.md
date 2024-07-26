@@ -47,10 +47,10 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-Java         4 hrs 24 mins   ██████████████████▒░░░░░░   73.96 %
-YAML         1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-JavaScript   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Java         3 hrs 58 mins   ███████████████████▒░░░░░   77.52 %
+YAML         45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+JavaScript   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
