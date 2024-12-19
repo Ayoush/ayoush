@@ -47,7 +47,8 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   24 mins         █████████████████▓░░░░░░░   70.37 %
+JSON         10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.63 %
 ```
 
 <!--END_SECTION:waka-->
