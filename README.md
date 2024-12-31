@@ -47,7 +47,8 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   5 mins          █████████████████████▒░░░   85.91 %
+CSV      0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
 ```
 
 <!--END_SECTION:waka-->
