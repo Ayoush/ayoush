@@ -47,11 +47,11 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    2 hrs 21 mins   ████████████████▓░░░░░░░░   66.60 %
-TypeScript    55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
-Image (svg)   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-JSON          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-CSS           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+JavaScript   2 hrs 21 mins   ████████████████████░░░░░   80.66 %
+TypeScript   27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
