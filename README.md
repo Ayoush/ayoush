@@ -47,9 +47,9 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         45 mins         ████████████░░░░░░░░░░░░░   47.88 %
-JavaScript   32 mins         ████████▓░░░░░░░░░░░░░░░░   34.32 %
-JSON         16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+JavaScript   32 mins         █████████████░░░░░░░░░░░░   52.41 %
+YAML         26 mins         ██████████▓░░░░░░░░░░░░░░   42.86 %
+JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
