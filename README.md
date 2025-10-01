@@ -47,11 +47,11 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             0 secs          ████████▒░░░░░░░░░░░░░░░░   33.98 %
-Git Config      0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-Apache Config   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Bash            0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-JavaScript      0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+PHP             1 min           ███████████▓░░░░░░░░░░░░░   46.83 %
+JSON            1 min           ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+Git Config      0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Apache Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Bash            0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
