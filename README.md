@@ -47,11 +47,11 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-Python       31 mins         ██████████░░░░░░░░░░░░░░░   39.58 %
-Markdown     13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-Text         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-JSON         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-TypeScript   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Markdown     10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.02 %
+JSON         8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+TypeScript   7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Git Config   5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
