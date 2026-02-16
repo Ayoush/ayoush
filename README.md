@@ -56,6 +56,14 @@ No activity tracked
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Ayoush)
 
+## Current Projects
+
+- 🚀 **[Devith](https://devith.com/)** - Brief one-line description of what it does
+
+## Shipped
+- ✅ **[Completed Project](https://example.com)** - What it achieved
+- ✅ **[Another Launch](https://example.com)** - Key outcome or metric
+
 📈 my leetcode stats
 
 <p align="center"> <img height="400em" src="https://leetcard.jacoblin.cool/Ayoush_Chourasia?ext=activity&font=Dancing_Script" />
