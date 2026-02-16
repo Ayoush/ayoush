@@ -52,9 +52,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-📈 my github stats
+## GitHub Activity
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayoush&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![GitHub Contribution Graph](https://ghchart.rshah.org/Ayoush)
 
 📈 my leetcode stats
 
