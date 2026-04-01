@@ -62,7 +62,10 @@ XML          3 mins                █░░░░░░░░░░░░░░
 
 ## Current Projects
 
-- 🚀 **[Devith](https://devith.com/)** - Brief one-line description of what it does
+- 🚀 **[Devith](https://devith.com/)** - Your product brain
+- 🚀 **[Saatva](https://www.saatva.club/)** - A healthOS catering to your need
+- 🚀 **[Artifactify](https://artifactify.pages.dev/)** - A simple artifacts manager for those who manage multiple claude accounts
+- 🚀 **[Intervues](http://intervues.ai/)** - A comprehensive hiring agency
 
 ## Shipped
 - ✅ **[Completed Project](https://example.com)** - What it achieved
