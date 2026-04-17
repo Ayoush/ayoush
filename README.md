@@ -47,9 +47,7 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-Other      39 mins               ███████████████████████░░   92.19 %
-Java       3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Markdown   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
