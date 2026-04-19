@@ -47,9 +47,11 @@ I am also a staunch advocate of the open-source community and actively participa
 <!--START_SECTION:waka-->
 
 ```txt
-Text       7 mins                ███████████░░░░░░░░░░░░░░   43.95 %
-Markdown   5 mins                ████████░░░░░░░░░░░░░░░░░   32.33 %
-Bash       4 mins                ██████░░░░░░░░░░░░░░░░░░░   23.73 %
+Text       7 mins                █████████▒░░░░░░░░░░░░░░░   36.69 %
+Markdown   5 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
+Bash       4 mins                █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Dart       3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
